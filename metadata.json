@@ -1,0 +1,7 @@
+{
+  "name": "Triveni Healthcare - Multi-Speciality Clinic Gwalior",
+  "description": "Compassionate Care. Modern Medicine. Official web portal for Triveni Healthcare multi-speciality clinic in Bahodapur, Gwalior with OPD consultation and experienced specialists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
